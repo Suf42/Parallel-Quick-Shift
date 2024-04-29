@@ -1,3 +1,5 @@
+# Parallel-Quick-Shift
+
 This repo contains all the materials for the EE451 Spring 24 final project submitted by Taryn Sanders and Mohammad Sufian at the University of Southern California under professor Viktor Prasanna.<br><br>
 
 <b>Introduction:</b><br>
